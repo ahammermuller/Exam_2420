@@ -35,3 +35,11 @@ How to use journalctl
 `journalctl -p warning -b -o json-pretty`
 
 ![journalctl](https://github.com/ahammermuller/Exam_2420/blob/main/Images/journalctl.jpg)
+
+# Script that finds all of the regular users on a system
+
+First I created a new user with home directory
+
+![useradd_user2](https://github.com/ahammermuller/Exam_2420/blob/main/Images/useradd_user2.jpg)
+
+

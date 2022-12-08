@@ -61,6 +61,6 @@ First I created a new user with home directory
 
 ![result_findusers](https://github.com/ahammermuller/Exam_2420/blob/main/Images/result_findusers.jpg)
 
-
+# Service file to run my script
 
 

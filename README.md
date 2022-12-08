@@ -67,3 +67,7 @@ First I created a new user with home directory
 
 Store your service file at /etc/systemd/system/
 
+Type:
+systemctl enable findusers.service
+systemctl start findusers.service
+

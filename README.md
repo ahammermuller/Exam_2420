@@ -34,3 +34,4 @@ How to use journalctl
 
 `journalctl -p warning -b -o json-pretty`
 
+![journalctl](https://github.com/ahammermuller/Exam_2420/blob/main/Images/journalctl.jpg)

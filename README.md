@@ -71,3 +71,8 @@ Type:
 systemctl enable findusers.service
 systemctl start findusers.service
 
+# timer
+
+![user_timer](https://github.com/ahammermuller/Exam_2420/blob/main/Images/user_timer.jpg)
+
+

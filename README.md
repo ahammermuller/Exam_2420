@@ -63,4 +63,4 @@ First I created a new user with home directory
 
 # Service file to run my script
 
-
+![finduser_service](https://github.com/ahammermuller/Exam_2420/blob/main/Images/finduser_service.jpg)

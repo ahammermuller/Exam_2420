@@ -59,7 +59,7 @@ First I created a new user with home directory
 
 ![script_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/script_finduser.jpg)
 
-![result_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/result_finduser.jpg)
+![result_findusers](https://github.com/ahammermuller/Exam_2420/blob/main/Images/result_findusers.jpg)
 
 
 

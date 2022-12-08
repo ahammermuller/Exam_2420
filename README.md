@@ -42,4 +42,25 @@ First I created a new user with home directory
 
 ![useradd_user2](https://github.com/ahammermuller/Exam_2420/blob/main/Images/useradd_user2.jpg)
 
+```
+  1 #!/bin/bash
+  2
+  3 echo "Regular users on the system are"
+  4 for userid in `awk -F: '{print $3}' /etc/passwd`
+  5 do
+  6 if (("$userid" >= 1000)); then
+  7 echo `cat /etc/passwd | grep ":$userid:" | awk -F: '{print $1,$3}'`
+  8 fi
+  9 done
+ 10
+ 11 echo "Users currently logged in are:"
+ 12 echo `w`
+```
+
+![script_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/script_finduser.jpg)
+
+![result_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/result_finduser.jpg)
+
+
+
 

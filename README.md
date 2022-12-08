@@ -57,7 +57,7 @@ First I created a new user with home directory
  12 echo `w`
 ```
 
-![script_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/script_finduser.jpg)
+![script_finduser](https://github.com/ahammermuller/Exam_2420/blob/main/Images/script_finduser1.jpg)
 
 ![result_findusers](https://github.com/ahammermuller/Exam_2420/blob/main/Images/result_findusers.jpg)
 
